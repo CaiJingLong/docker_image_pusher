@@ -1,5 +1,35 @@
 nginx
+
+portainer/portainer-ce:2.16.0-alpine
+postgres:13.6-alpine
+kikt69/caddy:v2.4.6-alidns
+rustdesk/rustdesk-server-s6
+whyour/qinglong:latest
+redis
+gitea/gitea
+vaultwarden/server:latest
+
+mongo
+mongo-express
+
+sonatype/nexus3:latest
+
+nextcloud:apache
+
+cnk3x/xunlei
+rocket.chat
+louislam/uptime-kuma
+linuxserver/qbittorrent
+linuxserver/transmission
+p3terx/aria2-pro
+p3terx/ariang
+xavierniu/cloudreve:3.5.1
+
+homeassistant/home-assistant:latest
 xhofe/alist:latest
 xiaoyaliu/alist
+traefik
+traefik/whoami
+
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
