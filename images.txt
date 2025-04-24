@@ -1,4 +1,5 @@
 mlikiowa/napcat-docker:latest
+docker.n8n.io/n8nio/n8n
 nyanmisaka/jellyfin:240401-amd64
 frooodle/s-pdf
 hagb/docker-atrust
