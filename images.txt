@@ -1,3 +1,6 @@
+mysql:8.0
+wordpress
+
 supabase/studio:2025.04.21-sha-173cc56
 kong:2.8.1
 supabase/gotrue:v2.171.0
