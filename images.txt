@@ -1,3 +1,4 @@
+appflowy/appflowy
 mysql:8.0
 wordpress
 
