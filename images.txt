@@ -1,6 +1,6 @@
 mlikiowa/napcat-docker:latest
 
-appflowy/appflowy
+# appflowy/appflowy
 mysql:8.0
 wordpress
 
