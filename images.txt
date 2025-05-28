@@ -1,3 +1,4 @@
+node:23-alpine
 mlikiowa/napcat-docker:latest
 
 # appflowy/appflowy
