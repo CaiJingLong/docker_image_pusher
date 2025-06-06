@@ -1,3 +1,4 @@
+ghcr.io/juanfont/headscale
 ghcr.io/wg-easy/wg-easy
 node:23-alpine
 mlikiowa/napcat-docker:latest
