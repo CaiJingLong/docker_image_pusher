@@ -1,3 +1,4 @@
+ghcr.io/gurucomputing/headscale-ui:latest
 registry
 ghcr.io/juanfont/headscale
 ghcr.io/wg-easy/wg-easy
