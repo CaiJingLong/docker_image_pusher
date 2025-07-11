@@ -1,3 +1,5 @@
+postgres:17-alpine
+postgres:13.6-alpine
 ghcr.io/gurucomputing/headscale-ui:latest
 registry
 ghcr.io/juanfont/headscale
@@ -37,7 +39,7 @@ koishijs/koishi
 nginx
 
 portainer/portainer-ce:2.16.0-alpine
-postgres:13.6-alpine
+
 kikt69/caddy:v2.4.6-alidns
 rustdesk/rustdesk-server-s6
 whyour/qinglong:latest
