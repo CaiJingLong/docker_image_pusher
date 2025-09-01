@@ -1,10 +1,12 @@
+node:24
+node:24-alpine
+
 postgres:17-alpine
 postgres:13.6-alpine
 ghcr.io/gurucomputing/headscale-ui:latest
 registry
 ghcr.io/juanfont/headscale
 ghcr.io/wg-easy/wg-easy
-node:23-alpine
 mlikiowa/napcat-docker:latest
 
 # appflowy/appflowy
