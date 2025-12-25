@@ -1,3 +1,5 @@
+ghcr.io/ding113/claude-code-hub:latest
+
 node:24
 node:24-alpine
 
