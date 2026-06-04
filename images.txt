@@ -1,79 +1,8 @@
 # ghcr.io/ding113/claude-code-hub:latest
 # ghcr.io/ding113/claude-code-hub:0.5.3
-composer:2
 
-node:24
-node:24-alpine
-
-postgres:17-alpine
-postgres:13.6-alpine
-ghcr.io/gurucomputing/headscale-ui:latest
-registry
-ghcr.io/juanfont/headscale
-ghcr.io/wg-easy/wg-easy
-mlikiowa/napcat-docker:latest
-
-# appflowy/appflowy
-mysql:8.0
-wordpress
-
-supabase/studio:2025.04.21-sha-173cc56
-kong:2.8.1
-supabase/gotrue:v2.171.0
-postgrest/postgrest:v12.2.11
-supabase/realtime:v2.34.47
-supabase/storage-api:v1.22.7
-darthsim/imgproxy:v3.8.0
-supabase/postgres-meta:v0.88.9
-supabase/edge-runtime:v1.67.4
-supabase/logflare:1.12.0
-supabase/postgres:15.8.1.060
-timberio/vector:0.28.1-alpine
-supabase/supavisor:2.5.1
-
-
-mariadb:10.11
-matomo:fpm-alpine
-
-
-
-docker.n8n.io/n8nio/n8n
-nyanmisaka/jellyfin:240401-amd64
-frooodle/s-pdf
-hagb/docker-atrust
-koishijs/koishi
-nginx
-
-portainer/portainer-ce:2.16.0-alpine
-
-kikt69/caddy:v2.4.6-alidns
-rustdesk/rustdesk-server-s6
-whyour/qinglong:latest
-redis
-gitea/gitea
-vaultwarden/server:latest
-
-mongo
-mongo-express
-
-sonatype/nexus3:latest
-
-nextcloud:apache
-
-cnk3x/xunlei
-rocket.chat
-louislam/uptime-kuma
-linuxserver/qbittorrent
-linuxserver/transmission
-p3terx/aria2-pro
-p3terx/ariang
-xavierniu/cloudreve:3.5.1
-
-homeassistant/home-assistant:latest
-xhofe/alist:latest
-xiaoyaliu/alist
-traefik
-traefik/whoami
+--platform=linux/arm64 composer:2
+--platform=linux/arm64 node:24
 
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
