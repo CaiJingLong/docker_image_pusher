@@ -1,6 +1,8 @@
 # ghcr.io/ding113/claude-code-hub:latest
 # ghcr.io/ding113/claude-code-hub:0.5.3
 
+ghcr.io/metacubex/metacubexd-server:latest
+
 postgres:18
 --platform=linux/arm64 composer:2
 --platform=linux/arm64 node:24
